@@ -244,7 +244,7 @@ body {
 }
 
 
-/****************************************REGISTRO DE USUARIO****************************************/
+/****************************************REGISTRO DE USUARIO & LOGIN****************************************/
 
   body {
     display: flex;
@@ -306,9 +306,11 @@ body {
 
 label[for="user"],
 label[for="contrasena"] {
+    
   color: #333;
   font-weight: bold;
 }
+
 
 
 
